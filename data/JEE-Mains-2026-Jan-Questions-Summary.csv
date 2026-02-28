@@ -1,0 +1,87 @@
+﻿Chapter Name,Subject,21 January Shift 1,21 January Shift 2,22 January Shift 1,22 January Shift 2,23 January Shift 1,23 January Shift 2,24 January Shift 1,24 January Shift 2,28 January Shift 1,28 January Shift 2,Total,Total-Questions-Per-Shift
+Application of Derivatives,Maths,1,1,1,0,0,0,1,1,0,1,6,75
+Area Under Curves,Maths,1,1,1,1,1,1,1,1,1,1,10,75
+Basic of Mathematics,Maths,0,0,0,0,0,0,1,0,0,0,1,75
+Binomial Theorem,Maths,1,1,1,1,2,0,1,0,0,2,9,75
+Circle,Maths,2,1,1,0,0,1,2,0,1,1,9,75
+Complex Number,Maths,1,1,1,1,1,1,0,1,1,1,9,75
+Continuity and Differentiability,Maths,0,0,0,1,1,1,2,1,0,0,6,75
+Definite Integration,Maths,2,1,1,2,1,1,1,1,3,1,14,75
+Determinants,Maths,0,1,0,1,1,1,0,0,0,0,4,75
+Differential Equations,Maths,1,1,2,1,2,1,0,1,1,1,11,75
+Differentiation,Maths,0,1,0,0,0,0,0,0,0,0,1,75
+Ellipse,Maths,0,1,0,1,1,0,1,2,0,2,8,75
+Functions,Maths,0,0,2,2,0,1,1,1,1,2,10,75
+Hyperbola,Maths,1,0,1,1,1,1,0,0,1,0,6,75
+Indefinite Integration,Maths,0,0,1,0,1,1,1,0,0,1,5,75
+Inverse Trigonometric Functions,Maths,1,1,1,0,0,0,0,1,1,1,6,75
+Limits,Maths,1,1,0,1,0,0,0,0,1,0,4,75
+"Limits, Continuity and Differentiability",Maths,0,0,0,0,0,0,0,0,0,1,1,75
+Matrices,Maths,1,1,2,1,1,1,1,2,1,1,12,75
+Parabola,Maths,1,2,1,1,0,1,0,1,0,1,8,75
+Permutation Combination,Maths,2,1,1,0,1,2,1,2,1,1,12,75
+Probability,Maths,0,1,2,0,1,1,1,1,1,1,9,75
+Quadratic Equation,Maths,1,1,0,1,2,1,0,1,2,0,9,75
+Sequences and Series,Maths,2,2,1,1,0,1,2,2,3,3,17,75
+Sets and Relations,Maths,1,2,1,2,1,1,1,0,0,0,9,75
+Statistics,Maths,1,0,0,1,1,1,1,1,1,0,7,75
+Straight Lines,Maths,1,0,0,1,1,1,1,1,1,0,7,75
+Three Dimensional Geometry,Maths,1,2,2,1,2,1,2,1,1,2,15,75
+Trigonometric Equations,Maths,0,0,0,0,1,0,0,1,0,0,2,75
+Trigonometric Ratios and Identities,Maths,1,0,1,1,1,2,2,0,1,0,9,75
+Vector Algebra,Maths,1,1,1,2,1,2,1,2,2,1,14,75
+Alternating Current,Physics,0,1,0,0,1,0,1,0,1,1,5,75
+Atomic Physics,Physics,1,1,0,1,1,0,1,0,0,0,5,75
+Capacitance,Physics,1,1,0,1,1,1,0,1,0,1,7,75
+Center of Mass Momentum and Collision,Physics,0,0,0,1,1,1,0,0,0,0,3,75
+Current Electricity,Physics,1,3,1,2,1,1,2,4,3,2,20,75
+Dual Nature of Matter,Physics,1,1,0,1,1,0,0,1,1,1,7,75
+Electromagnetic Induction,Physics,2,0,3,2,2,2,0,0,0,0,11,75
+Electromagnetic Waves,Physics,1,1,1,1,2,1,1,0,1,1,10,75
+Electrostatics,Physics,1,1,3,2,1,2,3,1,1,1,16,75
+Experimental Physics,Physics,0,0,0,0,1,0,0,1,1,1,4,75
+Gravitation,Physics,1,0,2,1,0,0,1,0,0,0,5,75
+Kinetic Theory of Gases,Physics,0,1,2,1,0,0,1,0,0,1,6,75
+Laws of Motion,Physics,1,1,0,0,0,1,2,1,2,1,9,75
+Magnetic Effects of Current,Physics,1,1,0,0,0,1,1,1,2,1,8,75
+Magnetic Properties of Matter,Physics,0,0,0,0,1,0,0,0,0,0,1,75
+Mathematics in Physics,Physics,1,0,0,0,1,0,0,0,0,0,2,75
+Mechanical Properties of Fluids,Physics,1,3,1,1,0,2,1,2,0,0,11,75
+Mechanical Properties of Solids,Physics,0,0,0,0,1,0,0,0,1,0,2,75
+Motion In One Dimension,Physics,0,0,0,0,0,1,0,1,1,1,4,75
+Motion In Two Dimensions,Physics,0,1,1,0,1,0,1,0,0,0,4,75
+Nuclear Physics,Physics,0,0,2,0,0,2,1,1,1,1,8,75
+Oscillations,Physics,0,1,0,1,2,0,1,0,1,2,8,75
+Ray Optics,Physics,2,1,3,2,2,2,2,2,2,2,20,75
+Rotational Motion,Physics,2,2,2,2,2,1,1,2,2,2,18,75
+Semiconductors,Physics,1,0,1,1,1,1,1,1,1,1,9,75
+Thermal Properties of Matter,Physics,2,0,1,0,0,0,1,0,2,0,6,75
+Thermodynamics,Physics,1,1,0,1,0,2,1,2,1,1,10,75
+Units and Dimensions,Physics,1,1,1,1,0,1,1,0,0,1,7,75
+Wave Optics,Physics,1,2,0,1,1,1,1,1,1,1,10,75
+Waves and Sound,Physics,1,0,1,1,0,1,0,2,0,2,8,75
+Work Power Energy,Physics,1,1,0,1,1,1,0,1,0,0,6,75
+Alcohols Phenols and Ethers,Chemistry,0,0,1,1,2,1,2,2,1,1,11,75
+Aldehydes and Ketones,Chemistry,1,1,1,1,1,2,0,1,1,0,9,75
+Amines,Chemistry,3,1,1,2,2,2,1,2,2,2,18,75
+Biomolecules,Chemistry,1,1,1,1,1,1,1,1,1,1,10,75
+Carboxylic Acid Derivatives,Chemistry,0,0,0,0,0,0,0,0,0,1,1,75
+Chemical Bonding and Molecular Structure,Chemistry,1,2,2,1,1,1,2,1,1,1,13,75
+Chemical Equilibrium,Chemistry,1,0,1,0,2,1,0,1,0,1,7,75
+Chemical Kinetics,Chemistry,1,1,2,2,1,2,1,1,1,1,13,75
+Classification of Elements and Periodicity in Properties,Chemistry,1,1,1,1,1,2,1,2,1,1,12,75
+Coordination Compounds,Chemistry,1,2,1,1,3,2,3,2,2,2,19,75
+d and f Block Elements,Chemistry,2,2,1,2,0,1,0,1,1,1,11,75
+Electrochemistry,Chemistry,1,2,1,2,1,1,1,1,1,2,13,75
+General Organic Chemistry,Chemistry,3,3,1,2,1,2,3,3,2,1,21,75
+Haloalkanes and Haloarenes,Chemistry,0,2,3,1,1,0,2,1,0,1,11,75
+Hydrocarbons,Chemistry,1,0,2,1,2,2,0,0,3,1,12,75
+Ionic Equilibrium,Chemistry,0,1,0,1,1,0,1,0,2,0,6,75
+p Block Elements (Group 13 and 14),Chemistry,2,0,0,1,1,1,0,0,0,1,6,75
+"p Block Elements (Group 15, 16, 17 and 18)",Chemistry,0,0,1,0,0,0,0,0,1,1,3,75
+Practical Chemistry,Chemistry,0,1,0,0,0,0,1,1,0,1,4,75
+Redox Reactions,Chemistry,0,0,0,1,0,1,1,1,1,0,5,75
+Solutions,Chemistry,1,2,2,1,1,1,2,2,1,1,14,75
+Some Basic Concepts of Chemistry,Chemistry,2,1,1,1,0,0,0,0,0,1,6,75
+Structure of Atom,Chemistry,1,1,1,1,2,2,1,1,2,2,14,75
+Thermodynamics (C),Chemistry,2,1,1,1,1,0,2,1,1,1,11,75
